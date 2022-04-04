@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing videogames.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? masting.verse@gmail.com
+- 📫 How to reach me?
 
 <!---
 MASTverse/MASTverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
